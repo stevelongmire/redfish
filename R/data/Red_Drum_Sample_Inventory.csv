@@ -1,0 +1,37 @@
+Fish.ID,Date,Location,Fork.cm,Total.cm,Kg,Girth.cm,Dart.ID,V13.ID,Plasma,RBC,Muscle,Spine
+2,7/24/2019,St. Augustine Inlet,74,79,5.44,-,#002,23321,Y,Y,N,Y
+3,7/26/2019,St. Augustine Inlet,88,96,9.53,46,#003,23317,Y,Y,Y,Y
+4,8/1/2019,St. Augustine Inlet,73,76,5.25,41,#004,23318,Y,Y,N,Y
+5,8/23/2019,Vilano Jetty,74,77,6,38,#005,23319,N,N,Y,Y
+6,8/26/2019,St. Augustine Inlet,84,89,9.53,49,#006,23322,N,N,Y,Y
+7,8/26/2019,St. Augustine Inlet,96,103,12.7,53,#007,23325,N,N,Y,Y
+10,9/24/2019,St. Augustine Inlet,105,113,13,58,#010,23323,N,N,Y,Y
+11,10/4/2019,St. Augustine Inlet,71,75,4.5,41,#011,23327,Y,Y,Y,Y
+12,10/16/2019,St. Augustine Inlet,71,74,4,35,#012,23328,Y,Y,Y,Y
+13,10/16/2019,St. Augustine Inlet,96,101,12,54,#013,23329,Y,Y,Y,Y
+14,10/22/2019,Matanzas Inlet,100,105,13,58,#014,23330,Y,Y,Y,Y
+15,10/28/2019,St. Augustine Inlet,113,117.5,15.25,63,#015,23331,Y,Y,N,Y
+16,10/28/2019,St. Augustine Inlet,99,105.5,10.25,52,#016,23332,Y,Y,Y,Y
+17,11/7/2019,Vilano Bridge,89,94.5,7.25,44,#017,23333,N,N,Y,Y
+18,2/19/2020,Crescent Beach flats,58,60,3,31,#018,23334,Y,Y,Y,N
+19,5/27/2020,Crescent Beach flats,56,59,4.4,30,#019,23335,Y,Y,Y,Y
+20,5/27/2020,Crescent Beach flats,56,60,4.6,29,#020,23336,N,N,Y,Y
+21,5/27/2020,Crescent Beach flats,55,58.5,4.6,29,#021,59219,Y,Y,Y,Y
+22,5/27/2020,Crescent Beach flats,56,60,4.8,31,#022,59220,Y,Y,Y,Y
+23,5/27/2020,Crescent Beach flats,74,78,9.2,38,#023,59221,Y,Y,Y,Y
+24,6/18/2020,St. Augustine Inlet,67,70,5,37,#024,59222,Y,Y,Y,Y
+25,6/19/2020,St. Augustine Inlet,76,81,6,43,#025,59223,Y,Y,Y,Y
+26,6/19/2020,St. Augustine Inlet,76,80,6,43,#026,59224,Y,Y,Y,N
+27,6/19/2020,St. Augustine Inlet,75,79,6,39,#027,59225,Y,Y,Y,Y
+28,6/19/2020,St. Augustine Inlet,68,72,5,42,#028,59226,Y,Y,Y,Y
+29,10/14/2020,St. Augustine Beach,99,102,9.53,54,#029,59227,Y,Y,Y,Y
+30,10/27/2020,St. Augustine Beach,96,101,9.98,52,#030,59228,Y,Y,Y,Y
+31,10/27/2020,St. Augustine Beach,100,106,13.6,59,#031,53424,Y,Y,Y,Y
+32,10/27/2020,St. Augustine Beach,104,109,11.34,54,#032,53425,Y,Y,Y,Y
+33,10/27/2020,St. Augustine Beach,90,96,9.07,48,#033,53426,Y,Y,Y,Y
+34,10/27/2020,St. Augustine Beach,66,69,4.54,37,#034,53428,Y,Y,Y,Y
+35,10/29/2020,St. Augustine Beach,80,87,6.8,48,#035,53427,Y,Y,Y,Y
+36,10/29/2020,St. Augustine Beach,96,101,9.53,62,#036,53429,Y,Y,Y,Y
+37,11/6/2020,St. Augustine Inlet,93,99,9.07,47,#037,53430,Y,Y,Y,Y
+38,11/6/2020,St. Augustine Inlet,75,78,4.08,43,#038,53431,Y,Y,Y,Y
+39,11/6/2020,St. Augustine Inlet,89,98,9.07,52,#039,59219,Y,Y,Y,Y
